@@ -1,0 +1,12 @@
+D:\Repos\GA Solution\GA_Service\Nucleo\bin\Debug\net6.0\Nucleo.deps.json
+D:\Repos\GA Solution\GA_Service\Nucleo\bin\Debug\net6.0\Nucleo.dll
+D:\Repos\GA Solution\GA_Service\Nucleo\bin\Debug\net6.0\Nucleo.pdb
+D:\Repos\GA Solution\GA_Service\Nucleo\obj\Debug\net6.0\Nucleo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\GA Solution\GA_Service\Nucleo\obj\Debug\net6.0\Nucleo.AssemblyInfoInputs.cache
+D:\Repos\GA Solution\GA_Service\Nucleo\obj\Debug\net6.0\Nucleo.AssemblyInfo.cs
+D:\Repos\GA Solution\GA_Service\Nucleo\obj\Debug\net6.0\Nucleo.csproj.CoreCompileInputs.cache
+D:\Repos\GA Solution\GA_Service\Nucleo\obj\Debug\net6.0\Nucleo.dll
+D:\Repos\GA Solution\GA_Service\Nucleo\obj\Debug\net6.0\refint\Nucleo.dll
+D:\Repos\GA Solution\GA_Service\Nucleo\obj\Debug\net6.0\Nucleo.pdb
+D:\Repos\GA Solution\GA_Service\Nucleo\obj\Debug\net6.0\ref\Nucleo.dll
+D:\Repos\GA Solution\GA_Service\Nucleo\obj\Debug\net6.0\Nucleo.csproj.AssemblyReference.cache

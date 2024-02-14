@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA_Service", "GA_Service\GA_Service.csproj", "{EC8C6544-48BB-4735-A3A7-319F80C68C5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GA_Nucleo", "GA_Nucleo", "{47D1946E-EB04-4D39-9D67-29F9C5612DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nucleo", "Nucleo\Nucleo.csproj", "{3DA03A85-F975-4734-939B-B8B7F4B18EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8C6544-48BB-4735-A3A7-319F80C68C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8C6544-48BB-4735-A3A7-319F80C68C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8C6544-48BB-4735-A3A7-319F80C68C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8C6544-48BB-4735-A3A7-319F80C68C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA03A85-F975-4734-939B-B8B7F4B18EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA03A85-F975-4734-939B-B8B7F4B18EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA03A85-F975-4734-939B-B8B7F4B18EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA03A85-F975-4734-939B-B8B7F4B18EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3DA03A85-F975-4734-939B-B8B7F4B18EE5} = {47D1946E-EB04-4D39-9D67-29F9C5612DDB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D19DF4C-9F5D-4B4D-BE10-FFA11F770A54}
+	EndGlobalSection
+EndGlobal
